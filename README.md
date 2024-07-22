@@ -17,5 +17,5 @@ This project allows users to interact with PDF documents through a chat interfac
 - Streamlit (for web interface)
 - python-dotenv (for environment variables)
 
-**
+---
 _Interact with your PDFs like never before! 📄💬_
